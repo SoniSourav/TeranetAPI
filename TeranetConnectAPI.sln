@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TeranetConnectAPI", "TeranetConnectAPI\TeranetConnectAPI.vbproj", "{20A45444-1968-416F-943E-AD2AFDB8B9DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{48A82DA4-6088-4081-9F1B-364B4F7F82CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teranet", "Teranet\Teranet.csproj", "{4D1A26ED-9888-4ECA-9CE4-46262588616A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{3CB15BE9-A80A-45C9-B135-92CE3773A280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		MCAspenDEV|Any CPU = MCAspenDEV|Any CPU
+		PortalDEV|Any CPU = PortalDEV|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.MCAspenDEV|Any CPU.ActiveCfg = Release|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.MCAspenDEV|Any CPU.Build.0 = Release|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.PortalDEV|Any CPU.ActiveCfg = Release|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.PortalDEV|Any CPU.Build.0 = Release|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A45444-1968-416F-943E-AD2AFDB8B9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.MCAspenDEV|Any CPU.ActiveCfg = Release|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.MCAspenDEV|Any CPU.Build.0 = Release|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.PortalDEV|Any CPU.ActiveCfg = Release|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.PortalDEV|Any CPU.Build.0 = Release|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A82DA4-6088-4081-9F1B-364B4F7F82CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.MCAspenDEV|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.MCAspenDEV|Any CPU.Build.0 = Release|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.PortalDEV|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.PortalDEV|Any CPU.Build.0 = Release|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1A26ED-9888-4ECA-9CE4-46262588616A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.MCAspenDEV|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.MCAspenDEV|Any CPU.Build.0 = Debug|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.PortalDEV|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.PortalDEV|Any CPU.Build.0 = Debug|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB15BE9-A80A-45C9-B135-92CE3773A280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A83CB5-06F5-4239-AE1F-C154102E8C20}
+	EndGlobalSection
+EndGlobal
